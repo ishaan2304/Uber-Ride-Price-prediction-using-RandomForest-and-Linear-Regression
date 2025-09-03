@@ -27,4 +27,3 @@ Clone the repo and install dependencies:
 ```bash
 git clone https://github.com/ishaan2304/Uber-Ride-Price-prediction-using-RandomForest-and-Linear-Regression.git
 cd uber-fare-prediction
-pip install -r requirements.txt
