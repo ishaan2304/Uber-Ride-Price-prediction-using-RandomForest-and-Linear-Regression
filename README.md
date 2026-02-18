@@ -1,4 +1,4 @@
-# Uber-Ride-Price-prediction-using-RandomForest-and-Linear-Regression.
+# Uber-Ride-Price-prediction-using-RandomForest-and-Linear-Regression
 
 This project predicts **Uber ride prices** from pickup to drop-off location.  
 It compares two machine learning models — **Linear Regression** and **Random Forest Regressor**
